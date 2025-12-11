@@ -1,3 +1,20 @@
+<div class="separator" style="clear: both;"><a href="https://i.ibb.co.com/8nDqS5Vc/Screenshot-2025-02-21-02-24-44-097-com-miui-gallery.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" data-original-height="2048" data-original-width="985" src="https://i.ibb.co.com/8nDqS5Vc/Screenshot-2025-02-21-02-24-44-097-com-miui-gallery.jpg"/></a></div>
+
+
+<div id="content-id" style="display:none;">
+
+  
+  
+  %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%PAKAISENDIRIAJABRO%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+====================================================PAKAIAJASENDIRI_JANGAN DI PERJUAL BELIKAN===========================================================================
+
+
+=========================================================================Indonesia======================================================================================
+  
+  
+
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/992/181/png-transparent-graphy-welcome-text-photography-logo-thumbnail.png" group-title="Indonesia",•●★--- Welcome ----★●•
 http://xtv.ooo:8080/12296515/19216918/350876
@@ -371,3 +388,14 @@ http://xtv.ooo:8080/12296515/19216918/351059
 http://xtv.ooo:8080/12296515/19216918/351060
 #EXTINF:-1 tvg-id="" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/ffe9e8c7ffa0c48eccb971c397c8e0de.png" group-title="Indonesia",ID: ZooMoo
 http://xtv.ooo:8080/12296515/19216918/351061
+  </div>
+<script>
+function toggleVisibility(id) {
+  var content = document.getElementById(id);
+  if (content.style.display === "none") {
+    content.style.display = "block";
+  } else {
+    content.style.display = "none";
+  }
+}
+</script>
